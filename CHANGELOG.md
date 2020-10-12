@@ -1,3 +1,26 @@
+<a name="1.1.2"></a> 
+# [1.1.2](https://demo.interval-soft.com/) (2020-10-12)
+### Bug
+ - Issue List 3 - ToE Form / ToE Upload tab (Boloroo) 
+ - fixed bug of dialog scroll (Boloroo) 
+ - fixed bug of inspection upload (Boloroo) 
+ - fixed bug of search selection On ToE form (Daima)
+ - added missed texts (no notificaion, loader on tp tasks) (Daima)
+
+ <a name="1.1.1"></a> 
+# [1.1.1](https://demo.interval-soft.com/) (2020-10-08)
+### Feature
+ - New metronic update
+### Bug
+ - Issue List 1 - Fixed - System log me out as soon as I am logging in. No issue on Chrome. (Daima) 
+ - Issue List 2 - Fixed - We still have not assigned rows on task list. (Daima) 
+ - Issue List 8 - Fixed singular/plural bug in main dashboard ongoing projects widget (Boloroo) 
+ - Issue List 5 - Added page break between ToEs in audit report (Boloroo)
+ - Issue List 4 - Added ToE Status row in audit report (Boloroo)
+ - Issue List 7 - Fixed audit report interaction title (Boloroo)
+ - Issue List 6 - Added ref column to audit trails list (Boloroo)
+
+
 <a name="1.0.191"></a> 
 # [1.0.191](https://demo.interval-soft.com/) (2020-10-06) (Release Candidate)
 ### Feature
