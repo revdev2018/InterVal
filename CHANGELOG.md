@@ -6,6 +6,7 @@
  - fixed bug of inspection upload (Boloroo) 
  - fixed bug of search selection On ToE form (Daima)
  - added missed texts (no notificaion, loader on tp tasks) (Daima)
+ - added 404 error page  (Daima)
 
  <a name="1.1.1"></a> 
 # [1.1.1](https://demo.interval-soft.com/) (2020-10-08)
