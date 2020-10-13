@@ -1,3 +1,9 @@
+<a name="1.1.3"></a> 
+# [1.1.3](https://demo.interval-soft.com/) (2020-10-13) (Release candidate)
+### Bug
+ - Issue List 9, 10, 11 - Tasks changed column order (Boloroo)
+ - Fixed Styles of home dashboard (Boloroo)
+
 <a name="1.1.2"></a> 
 # [1.1.2](https://demo.interval-soft.com/) (2020-10-12)
 ### Bug
