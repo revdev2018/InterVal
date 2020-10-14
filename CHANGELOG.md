@@ -1,10 +1,12 @@
 <a name="1.1.4"></a> 
-# [1.1.4](https://demo.interval-soft.com/) (2020-10-14) (Release candidate)
+# [1.1.4](https://demo.interval-soft.com/) (2020-10-14)
 ### Bug
  - toe resolver bug fixed - weird issue when editing draft toe, there is appearing revert button (daima)
  - Added loader in TP table of ToE form (Daima)
  - developed some change about "PM can either be LV or support member also" (Boloroo)
  - Issue List 12 - Tasks - Admin Tasks (Lead Valuer)	- A Task should never be unassigned.(Boloroo)
+ - added Http Intercept service for listeninf 401 status of http request (Daima)
+
  
 <a name="1.1.3"></a> 
 # [1.1.3](https://demo.interval-soft.com/) (2020-10-14)
