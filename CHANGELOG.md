@@ -1,3 +1,8 @@
+<a name="1.1.5"></a>
+# [1.1.5](https://demo.interval-soft.com/) (2020-10-16) (Release Candidate)
+### Bug
+ - Changed the title of interaction in audit trail report to "INTERACTION - #{Interaction ID}" (Boloroo)
+
 <a name="1.1.4"></a> 
 # [1.1.4](https://demo.interval-soft.com/) (2020-10-14)
 ### Bug
