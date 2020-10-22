@@ -5,6 +5,7 @@
  - Fixed map righ click bug (Boloroo)
  - Developed marker info dialog in valuation comparable tab according to the Mock-up (Daima)
  - Fixed small bugs of API which are appeared while developing the comparable tab (Daima)
+ - Added a new dialog component for slide picture (Daima)
  - Developed General tab (showing TP info) (Boloroo)
 
 <a name="1.1.4"></a> 
