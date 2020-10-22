@@ -1,7 +1,11 @@
 <a name="1.1.5"></a>
-# [1.1.5](https://demo.interval-soft.com/) (2020-10-16) (Release Candidate)
+# [1.1.5](https://demo.interval-soft.com/) (2020-10-22) (
 ### Bug
  - Changed the title of interaction in audit trail report to "INTERACTION - #{Interaction ID}" (Boloroo)
+ - Fixed map righ click bug (Boloroo)
+ - Developed marker info dialog in valuation comparable tab according to the Mock-up (Daima)
+ - Fixed small bugs of API which are appeared while developing the comparable tab (Daima)
+ - Developed General tab (showing TP info) (Boloroo)
 
 <a name="1.1.4"></a> 
 # [1.1.4](https://demo.interval-soft.com/) (2020-10-14)
