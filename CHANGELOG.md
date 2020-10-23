@@ -1,3 +1,8 @@
+<a name="1.1.6"></a>
+# [1.1.6](https://demo.interval-soft.com/) (2020-10-23)
+### Bug
+ - Changed marker info dialog style (Boloroo)
+ 
 <a name="1.1.5"></a>
 # [1.1.5](https://demo.interval-soft.com/) (2020-10-22) 
 ### Bug
