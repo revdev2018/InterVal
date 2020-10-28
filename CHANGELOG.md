@@ -1,3 +1,10 @@
+<a name="1.1.7"></a>
+# [1.1.7](https://demo.interval-soft.com/) (2020-10-28)
+### Feature
+ - Property Detail Report first and second page (Boloroo)
+ - Added report table on Report tab of ToE Dashboard page (Boloroo)
+ - Can generate Property Detail Report (Boloroo)
+ 
 <a name="1.1.6"></a>
 # [1.1.6](https://demo.interval-soft.com/) (2020-10-23)
 ### Bug
