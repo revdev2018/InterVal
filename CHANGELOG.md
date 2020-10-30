@@ -1,4 +1,14 @@
 <a name="1.1.7"></a>
+# [1.1.8](https://demo.interval-soft.com/) (2020-10-29)
+### Feature
+- developed leasehold dialog [#11] (Daima)
+- if they are in the same building,  hide building info table and show text in title  [#7] (Daima)
+- fixed - bottom space bug  [#12] (Daima)
+- hide row if no info  [#5] (Daima)
+- showed number of comparing rows [#6] (Daima)
+- developed picture part [#3] (Daima)
+ 
+<a name="1.1.7"></a>
 # [1.1.7](https://demo.interval-soft.com/) (2020-10-28)
 ### Feature
  - Property Detail Report first and second page (Boloroo)
