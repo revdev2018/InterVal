@@ -1,4 +1,11 @@
-<a name="1.1.7"></a>
+<a name="1.1.9"></a>
+# [1.1.9](https://demo.interval-soft.com/) (2020-10-30)
+### Bug
+ - Fixed bug of building or asset class picture double uploading (Boloroo)
+ - Fixed bug of watching main asset class (apartment, office, property) picture after creating it (Boloroo)
+ - Fixed bug of offices loading in comparables (Boloroo)
+
+<a name="1.1.8"></a>
 # [1.1.8](https://demo.interval-soft.com/) (2020-10-29)
 ### Feature
 - developed leasehold dialog [#11] (Daima)
@@ -7,6 +14,8 @@
 - hide row if no info  [#5] (Daima)
 - showed number of comparing rows [#6] (Daima)
 - developed picture part [#3] (Daima)
+- Added loading indicator on general tab of valuation page (Boloroo)
+- Fixed style of marker info when choosing existing building (Boloroo)
  
 <a name="1.1.7"></a>
 # [1.1.7](https://demo.interval-soft.com/) (2020-10-28)
