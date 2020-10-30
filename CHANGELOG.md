@@ -4,6 +4,14 @@
  - Property Detail Report first and second page (Boloroo)
  - Added report table on Report tab of ToE Dashboard page (Boloroo)
  - Can generate Property Detail Report (Boloroo)
+ - removed similarity [#9] (Daima)
+ - changed - the 3 column should have same size [#13, #14] (Daima)
+ - added map view on the top of modal [#15] (Daima)
+ - developed size part [#10] (Daima)
+ - developed consideration part [#11] (Daima)
+ - fixed small bugs of API  (Daima)
+
+
  
 <a name="1.1.6"></a>
 # [1.1.6](https://demo.interval-soft.com/) (2020-10-23)
