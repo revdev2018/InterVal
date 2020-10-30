@@ -1,5 +1,5 @@
 <a name="1.1.9"></a>
-# [1.1.9](https://demo.interval-soft.com/) (2020-10-30)
+# [1.1.9](https://demo.interval-soft.com/) (2020-10-30) (Release Candidate)
 ### Bug
  - Fixed bug of building or asset class picture double uploading (Boloroo)
  - Fixed bug of watching main asset class (apartment, office, property) picture after creating it (Boloroo)
