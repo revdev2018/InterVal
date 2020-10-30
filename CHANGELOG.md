@@ -4,6 +4,7 @@
  - Fixed bug of building or asset class picture double uploading (Boloroo)
  - Fixed bug of watching main asset class (apartment, office, property) picture after creating it (Boloroo)
  - Fixed bug of offices loading in comparables (Boloroo)
+ - Seeing image is now scrollable if the image height is big (Boloroo)
 
 <a name="1.1.8"></a>
 # [1.1.8](https://demo.interval-soft.com/) (2020-10-29)
