@@ -1,5 +1,5 @@
-<a name="1.1.9"></a>
-# [1.1.9](https://demo.interval-soft.com/) (2020-10-30) (Release Candidate)
+<a name="1.1.10"></a>
+# [1.1.10](https://demo.interval-soft.com/) (2020-11-02)
 ### Bug
  - fixed space bug  [#1 Modal issues] (Daima)
  - fixed header bug [#2 Modal issues] (Daima)
