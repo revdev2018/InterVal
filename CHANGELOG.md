@@ -1,6 +1,25 @@
 <a name="1.1.9"></a>
 # [1.1.9](https://demo.interval-soft.com/) (2020-10-30) (Release Candidate)
 ### Bug
+ - fixed space bug  [#1 Modal issues] (Daima)
+ - fixed header bug [#2 Modal issues] (Daima)
+ - fixed type-information bug  [#3 Modal issues] (Daima)
+ - fixed first row bug  [#4 Modal issues] (Daima)
+ - fixed changing position text of "part of same building" [#5 Modal issues] (Daima)
+ - added link  [#7 Modal issues] (Daima)
+ - fixed appearing bug of city row  [#9 Modal issues] (Daima)
+ - fixed appearing bug of apartment type row  [#10 Modal issues] (Daima)
+ - changed icon of leasehold  [#12 Modal issues] (Daima)
+ - fixed building table bug  [#13 Modal issues] (Daima)
+ 
+ - added red marker  [#1 Map issues] (Daima)
+ - fixed typo bug  [#2 Map issues] (Daima)
+ 
+ 
+ 
+<a name="1.1.9"></a>
+# [1.1.9](https://demo.interval-soft.com/) (2020-10-30) 
+### Bug
  - Fixed bug of building or asset class picture double uploading (Boloroo)
  - Fixed bug of watching main asset class (apartment, office, property) picture after creating it (Boloroo)
  - Fixed bug of offices loading in comparables (Boloroo)
