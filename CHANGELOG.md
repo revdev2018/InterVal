@@ -15,6 +15,13 @@
  - added red marker  [#1 Map issues] (Daima)
  - fixed typo bug  [#2 Map issues] (Daima)
  
+ - fixed issue of copying building information does not copying building picture [#1 others] (Boloroo)
+ - changed icon of edit button in toe dashboard [#2 others] (Boloroo)
+ - changed icon color of read button in toe dashboard to more light color [#3 others] (Boloroo)
+ - changed columns in report table [#4 others] (Boloroo)
+ - added "Edit Description" dialog functionality in report table [#5 others] (Boloroo)
+ - changed tooltip of report in report table [#6 others] (Boloroo)
+ 
  
  
 <a name="1.1.9"></a>
