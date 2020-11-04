@@ -1,3 +1,11 @@
+<a name="1.1.11"></a>
+# [1.1.11](https://demo.interval-soft.com/) (2020-11-03)
+### Bug
+ - checked and showed the distance between properties  [#6 Modal issues] (Daima)
+ - showed description when the picture has desc  [#11 #14 Modal issues] (Daima)
+ - fixed bug of disappearing table data  [#3 Table issues] (Daima)
+ 
+ 
 <a name="1.1.10"></a>
 # [1.1.10](https://demo.interval-soft.com/) (2020-11-02)
 ### Bug
