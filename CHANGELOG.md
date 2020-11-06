@@ -1,3 +1,12 @@
+<a name="1.1.13"></a>
+# [1.1.13](https://demo.interval-soft.com/) (2020-11-05)
+### Feature
+ - Condition Rating of Inspection form (Boloroo)
+   - implemented - condition rating table above the property pictures section
+   - implemented - when adding a new picture to property, we can link it to any of the condition ratings in the table
+     - currently we can only add one picture (will fix it).
+   - implemented - property pictures table will show information if it's connected to any condition rating
+   - implemented - pictures of condition ratings will show in its own table and can see picture when click it
 <a name="1.1.12"></a>
 # [1.1.12](https://demo.interval-soft.com/) (2020-11-04)
 ### Bug
