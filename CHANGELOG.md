@@ -1,3 +1,14 @@
+<a name="1.1.12"></a>
+# [1.1.12](https://demo.interval-soft.com/) (2020-11-04)
+### Bug
+ - fixed - show wrong data on apartment type row  [#1] (Daima)
+ - fixed - text center alignment  [#2] (Daima)
+ - fixed - missed row that lease duration  [#3] (Daima)
+ - fixed - wrong data on leasehold row of consideration  [#4] (Daima)
+ - fixed - show wrong data on location grade row  [#5] (Daima)
+ - fixed - alignment bug of table  [#6] (Daima)
+ - chnaged some text on leashold info dilaog   [#7 estimated cost, etc .. ] (Daima)
+ 
 <a name="1.1.11"></a>
 # [1.1.11](https://demo.interval-soft.com/) (2020-11-03)
 ### Bug
