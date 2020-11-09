@@ -1,3 +1,8 @@
+<a name="1.1.14"></a>
+# [1.1.14](https://demo.interval-soft.com/) (2020-11-09) (Release candidate)
+### Issue 
+ - D2 - Condition rating now can have multiple thumbnails (Boloroo)
+ - D3 - One picture can be associated to only one rating (Boloroo)
 <a name="1.1.13"></a>
 # [1.1.13](https://demo.interval-soft.com/) (2020-11-05)
 ### Feature
