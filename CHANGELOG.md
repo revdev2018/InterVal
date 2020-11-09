@@ -1,8 +1,19 @@
 <a name="1.1.14"></a>
-# [1.1.14](https://demo.interval-soft.com/) (2020-11-09) (Release candidate)
+# [1.1.14](https://demo.interval-soft.com/) (2020-11-09) 
 ### Issue 
  - D2 - Condition rating now can have multiple thumbnails (Boloroo)
  - D3 - One picture can be associated to only one rating (Boloroo)
+ 
+ - A1 - Valuation / comparable modal	- Add Condition Rating row at the top of the characteristics table (when applies) with modal [WIP](Daima)
+ - A4 - Information about comparable / Source type	- Change the input as such: {Source_Type} - {Date_of_Information} (x months ago) (Daima)
+ - A5 - Switch columns	- Can you switch the columns for all tables, and put first the comparable and after the target property. (Daima)
+ - A6 - Map	- Is it possible to trace a line between the 2 properties? Yes (Daima)
+ - A9, A10, A8 -  Changed the Picture Modal Title (Daima)
+ - A11 - Building Information	Part of a larger property: - If yes, then display also the description “Yes, xxxxxx” (Daima)
+
+ - B2 - Table / Action	- Show information button not needed here. Remove it. (Daima)
+
+ 
 <a name="1.1.13"></a>
 # [1.1.13](https://demo.interval-soft.com/) (2020-11-05)
 ### Feature
