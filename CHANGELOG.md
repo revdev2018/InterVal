@@ -1,3 +1,19 @@
+<a name="1.1.15"></a>
+# [1.1.15](https://demo.interval-soft.com/) (2020-11-10) (Release Candidate)
+### Issue
+ - C2 - Added "Property Review Type" column in valuation breakdown table in ToE/payment form (Boloroo)
+ - C3 - Added background color in price section in valuation breakdown table to show it is editable (Boloroo)
+ - C5 - Fixed property review counting in toe dashboard (Boloroo)
+ - C7 - Disabled "full property survey" in target property form (Boloroo)
+ - C8 - Added "coming soon" to each disabled valuation methods in target property form (Boloroo)
+ - C9 - Made arrow icons more gray when disabled in dashboard for assignment (Boloroo)
+ - C10 - Made summary table background color same as tp tasks table (Boloroo)
+ - C12 - Comparables/Retails page has become "Coming Soon" page (Boloroo)
+ - C13 - Made every asset class disabled in target property form except Residential and Office (Boloroo) 
+ - D4 - Moved "Sizes" section above the "Condition ratings" section (Boloroo)
+ - D5 - Added "Property Pictures" section title (Boloroo)
+ - D6 - Fixed margins in inspection form (Boloroo)
+
 <a name="1.1.14"></a>
 # [1.1.14](https://demo.interval-soft.com/) (2020-11-09) 
 ### Issue 
