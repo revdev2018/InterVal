@@ -13,6 +13,8 @@
  - D4 - Moved "Sizes" section above the "Condition ratings" section (Boloroo)
  - D5 - Added "Property Pictures" section title (Boloroo)
  - D6 - Fixed margins in inspection form (Boloroo)
+ - Condition Ratings section - Image Viewer will show image's title (Boloroo)
+ - Condition Ratings section - rating changing drop down will show current rating (Boloroo)
 
 <a name="1.1.14"></a>
 # [1.1.14](https://demo.interval-soft.com/) (2020-11-09) 
