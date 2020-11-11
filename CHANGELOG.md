@@ -1,3 +1,7 @@
+<a name="1.1.16"></a>
+# [1.1.16](https://demo.interval-soft.com/) (2020-11-11) (Release candidate)
+- C14 - These buttons new should work properly (Boloroo)
+
 <a name="1.1.15"></a>
 # [1.1.15](https://demo.interval-soft.com/) (2020-11-10)
  - C2 - Added "Property Review Type" column in valuation breakdown table in ToE/payment form (Boloroo)
