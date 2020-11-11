@@ -1,6 +1,5 @@
 <a name="1.1.15"></a>
-# [1.1.15](https://demo.interval-soft.com/) (2020-11-10) (Release Candidate)
-### Issue
+# [1.1.15](https://demo.interval-soft.com/) (2020-11-10)
  - C2 - Added "Property Review Type" column in valuation breakdown table in ToE/payment form (Boloroo)
  - C3 - Added background color in price section in valuation breakdown table to show it is editable (Boloroo)
  - C5 - Fixed property review counting in toe dashboard (Boloroo)
@@ -15,6 +14,11 @@
  - D6 - Fixed margins in inspection form (Boloroo)
  - Condition Ratings section - Image Viewer will show image's title (Boloroo)
  - Condition Ratings section - rating changing drop down will show current rating (Boloroo)
+
+ - A1 - finished Condition Rating Modal with many pictures (Daima)
+ - A3 - it is not issue (Daima)
+ - B1 - if the comparable property is selected, comparable title is red color labeled  (Daima)
+ 
 
 <a name="1.1.14"></a>
 # [1.1.14](https://demo.interval-soft.com/) (2020-11-09) 
