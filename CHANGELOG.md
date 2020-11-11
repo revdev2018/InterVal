@@ -2,6 +2,8 @@
 # [1.1.16](https://demo.interval-soft.com/) (2020-11-11) (Release candidate)
 - C14 - These buttons now should work properly (Boloroo)
 - C3 - Background color is now based on full process (Boloroo)
+- D1 - Made condition rating thumbnail's size same as other thumbnails (Boloroo)
+- Selecting a country in map that is not system will show error dialog. User can add a country from that dialog if he/she wishes (Boloroo)
 
 <a name="1.1.15"></a>
 # [1.1.15](https://demo.interval-soft.com/) (2020-11-10)
