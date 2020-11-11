@@ -1,6 +1,6 @@
 <a name="1.1.16"></a>
 # [1.1.16](https://demo.interval-soft.com/) (2020-11-11) (Release candidate)
-- C14 - These buttons new should work properly (Boloroo)
+- C14 - These buttons now should work properly (Boloroo)
 
 <a name="1.1.15"></a>
 # [1.1.15](https://demo.interval-soft.com/) (2020-11-10)
