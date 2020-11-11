@@ -8,6 +8,7 @@
  - C2 - Added "Property Review Type" column in valuation breakdown table in ToE/payment form (Boloroo)
  - C3 - Added background color in price section in valuation breakdown table to show it is editable (Boloroo)
  - C5 - Fixed property review counting in toe dashboard (Boloroo)
+ - C6 - Changed color of pin when Landmark has been selected (red) on landmark tab (Daima)
  - C7 - Disabled "full property survey" in target property form (Boloroo)
  - C8 - Added "coming soon" to each disabled valuation methods in target property form (Boloroo)
  - C9 - Made arrow icons more gray when disabled in dashboard for assignment (Boloroo)
