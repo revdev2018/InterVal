@@ -3,6 +3,7 @@
 - C14 - These buttons now should work properly (Boloroo)
 - C3 - Background color is now based on full process (Boloroo)
 - D1 - Made condition rating thumbnail's size same as other thumbnails (Boloroo)
+- A2 - changed picture modal for browsing capability (Daima)
 - Selecting a country in map that is not system will show error dialog. User can add a country from that dialog if he/she wishes (Boloroo)
 
 <a name="1.1.15"></a>
