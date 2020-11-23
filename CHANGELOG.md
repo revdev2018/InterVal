@@ -1,3 +1,10 @@
+<a name="1.1.18"></a>
+# [1.1.18](https://demo.interval-soft.com/) (2020-11-23)
+- B3 - added picture count Filter on Office, Residential and Valuation 3th tab (Daima)
+- C11 - Comparable Reference number (Bolor)
+- field changes [WIP] (Bolor and Daima)
+
+
 <a name="1.1.16"></a>
 # [1.1.17](https://demo.interval-soft.com/) (2020-11-12)
 - A2 - changed indicator and buttons interface (Daima)
