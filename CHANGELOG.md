@@ -1,3 +1,7 @@
+<a name="1.1.19"></a>
+# [1.1.19](https://demo.interval-soft.com/) (2020-11-25)
+- Comparables and Inspection form field changes (Bolor and Daima)
+
 <a name="1.1.18"></a>
 # [1.1.18](https://demo.interval-soft.com/) (2020-11-23)
 - B3 - added picture count Filter on Office, Residential and Valuation 3th tab (Daima)
