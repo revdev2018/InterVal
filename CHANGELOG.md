@@ -1,3 +1,12 @@
+<a name="1.1.21"></a>
+# [1.1.21](https://demo.interval-soft.com/) (2020-12-01)
+- filled empty value, added column color and conditions on the all rows of valuation modal
+
+<a name="1.1.20"></a>
+# [1.1.20](https://demo.interval-soft.com/) (2020-11-25)
+- ?
+
+
 <a name="1.1.19"></a>
 # [1.1.19](https://demo.interval-soft.com/) (2020-11-25)
 - Comparables and Inspection form field changes (Bolor and Daima)
