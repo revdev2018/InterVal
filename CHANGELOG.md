@@ -1,6 +1,8 @@
 <a name="1.1.22"></a>
 # [1.1.22](https://demo.interval-soft.com/) (2020-12-01)
 - done- A1,A2,A3 (daima)
+- finished counting of the comparasion points
+
 
 
 <a name="1.1.21"></a>
