@@ -1,5 +1,5 @@
 <a name="1.1.23"></a>
-# [1.1.23](https://demo.interval-soft.com/) (2020-12-03) (Release Candidate)
+# [1.1.23](https://demo.interval-soft.com/) (2020-12-03)
 - issue task - D1 (Bolor)
 - fixed minor bugs (Bolor)
   - Couldn't save information date when source type is unknown
