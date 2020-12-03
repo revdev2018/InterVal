@@ -1,6 +1,9 @@
 <a name="1.1.23"></a>
 # [1.1.23](https://demo.interval-soft.com/) (2020-12-03) (Release Candidate)
 - issue task - D1 (Bolor)
+- fixed minor bugs (Bolor)
+  - Couldn't save information date when source type is unknown
+  - Couldn't validate inspection form when asset type is residential
 
 <a name="1.1.22"></a>
 # [1.1.22](https://demo.interval-soft.com/) (2020-12-02)
