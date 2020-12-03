@@ -1,3 +1,8 @@
+<a name="1.1.22"></a>
+# [1.1.22](https://demo.interval-soft.com/) (2020-12-01)
+- done- A1,A2,A3 (daima)
+
+
 <a name="1.1.21"></a>
 # [1.1.21](https://demo.interval-soft.com/) (2020-12-01)
 - filled empty value, added column color and conditions on the all rows of valuation modal
