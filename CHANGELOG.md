@@ -1,17 +1,25 @@
+<a name="1.1.23"></a>
+# [1.1.23](https://demo.interval-soft.com/) (2020-12-03) (Release Candidate)
+- issue task - D1 (Bolor)
+
 <a name="1.1.22"></a>
-# [1.1.22](https://demo.interval-soft.com/) (2020-12-01)
+# [1.1.22](https://demo.interval-soft.com/) (2020-12-02)
 - done- A1,A2,A3 (daima)
-- finished counting of the comparasion points
-
-
+- finished counting of the comparasion points (Daima)
+- issue task - D2, D3 (Bolor)
+- issue task - E1, E2 (Bolor)
 
 <a name="1.1.21"></a>
 # [1.1.21](https://demo.interval-soft.com/) (2020-12-01)
-- filled empty value, added column color and conditions on the all rows of valuation modal
+- filled empty value, added column color and conditions on the all rows of valuation modal (Daima)
+- Fixed issue of country add in forms (Bolor)
+- Removed "what3words" field (Bolor)
 
 <a name="1.1.20"></a>
 # [1.1.20](https://demo.interval-soft.com/) (2020-11-25)
-- ?
+- Fixed inspection form wouldn't validate issue (Bolor)
+- Fixed inspection form "save as draft" wouldn't save issue (Bolor)
+- Fixed couldn't access "comparable tab" issue (Bolor)
 
 
 <a name="1.1.19"></a>
