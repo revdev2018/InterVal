@@ -5,7 +5,7 @@
   - Couldn't save information date when source type is unknown
   - Couldn't validate inspection form when asset type is residential
   - User profile going to 404
-
+- added 5 max comparable limit (Daima)
 <a name="1.1.22"></a>
 # [1.1.22](https://demo.interval-soft.com/) (2020-12-02)
 - done- A1,A2,A3 (daima)
