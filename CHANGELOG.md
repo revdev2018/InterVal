@@ -1,3 +1,9 @@
+<a name="1.1.24"></a>
+# [1.1.24](https://demo.interval-soft.com/) (2020-12-04) (Release Candidate)
+- Removed unknowns in inspection form (Bolor)
+- Comparables edit title uses reference number (Bolor)
+- Fixed style of condition rating edit dialog (Bolor)
+
 <a name="1.1.23"></a>
 # [1.1.23](https://demo.interval-soft.com/) (2020-12-03)
 - issue task - D1 (Bolor)
