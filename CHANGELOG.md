@@ -14,7 +14,20 @@
 - B3	Rooms - Unknown shows the output “-1” (Daima)
 - B4	Bedrooms - Unknown shows the output “-1” (Daima)
 - B5	Bathrooms - Unknown shows the output “-1” (Daima)
-- B9	External Area (Daima)
+- B9	External Area - When checking unknown, it shows “No external areas” while it should show “Unknown” (Daima)
+
+
+- C2	Office facilities (common use) - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
+- C3	Office facilities (exclusive use) - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
+- C5 	Number of rooms - Unknown shows the output “-1” (Daima)
+- C4	Office Layout - Red cell not showing when unknown. (Daima)
+- C7	Bathrooms - Unknown shows the output “-1” (Daima)
+- C8	External Area - When checking unknown, it shows “No external areas” while it should show “Unknown” (Daima)
+- C9	Indoor Garages - When input = 0, it shows unknown (Daima)
+- C10	Outdoor garages - When input = 0, it shows unknown (Daima)
+
+
+
 
 
 
