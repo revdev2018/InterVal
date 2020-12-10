@@ -36,6 +36,8 @@
 
 - D7	State of repair - When unknown, red cell not showing up. (Daima)
 - D8	Total Building floors - When input a floor, it is showing unknown (Daima)
+- D9	Indoor garages - This field refuses to be saved as something else than Unknown (Daima)
+- D10	Outdoor garages - This field refuses to be saved as something else than Unknown (Daima)
 - D16	Building Facilities - When checking unknown, it shows “No facilities” while it should show “Unknown”  (Daima)
 
 
