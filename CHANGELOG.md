@@ -3,6 +3,7 @@
 - Removed unknowns in inspection form (Bolor)
 - Comparables edit title uses reference number (Bolor)
 - Fixed style of condition rating edit dialog (Bolor)
+- Fixed ToE report - Property Details section numbering (Bolor)
 
 - add rows on the modal [Flooring Type Comment, Windows Type Comment, Occupancy status, Occupancy status Description, Location and Surroundings Description] (Daima)
 
