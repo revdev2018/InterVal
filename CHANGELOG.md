@@ -5,18 +5,23 @@
 - Fixed style of condition rating edit dialog (Bolor)
 
 - add rows on the modal [Flooring Type Comment, Windows Type Comment, Occupancy status, Occupancy status Description, Location and Surroundings Description] (Daima)
+
+- A3	Zip Code - When not filled, the message should be “Unknown / not applicable”	 (Daima)
 - E2	Information - I have selected unknown and it displays “0” Red cell when unknown  (Daima)
 - E3	Credibility - Red cell when unknown  (Daima)
 - E4	Description - Red cell when unknown  (Daima)
 - E5	Web Address - Red cell when unknown  (Daima)
 - E6	Pictures - Red cell when unknown  (Daima)
+
+
+- B1	Floor location The current output is: “2,5-7”. Can we have a space after the comma? (Daima)
 - B2	Residential facilities - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
 - B3	Rooms - Unknown shows the output “-1” (Daima)
 - B4	Bedrooms - Unknown shows the output “-1” (Daima)
 - B5	Bathrooms - Unknown shows the output “-1” (Daima)
 - B9	External Area - When checking unknown, it shows “No external areas” while it should show “Unknown” (Daima)
 
-
+- C1	Floor location The current output is: “2,5-7”. Can we have a space after the comma?  (Daima)
 - C2	Office facilities (common use) - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
 - C3	Office facilities (exclusive use) - When checking unknown, it shows “No facilities” while it should show “Unknown” (Daima)
 - C5 	Number of rooms - Unknown shows the output “-1” (Daima)
@@ -25,6 +30,11 @@
 - C8	External Area - When checking unknown, it shows “No external areas” while it should show “Unknown” (Daima)
 - C9	Indoor Garages - When input = 0, it shows unknown (Daima)
 - C10	Outdoor garages - When input = 0, it shows unknown (Daima)
+
+
+
+- D7	State of repair - When unknown, red cell not showing up. (Daima)
+- D16	Building Facilities - When checking unknown, it shows “No facilities” while it should show “Unknown”  (Daima)
 
 
 
