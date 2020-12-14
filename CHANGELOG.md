@@ -1,5 +1,13 @@
+<a name="1.1.25"></a>
+# [1.1.25](https://demo.interval-soft.com/) (2020-12-14) (Release Candidate)
+- Issue G1 - Trash and Admin Trash button fixed (Comparables) (Bolor)
+- Issue G2 - Checked other trash button issue. None was found. (Bolor)
+- Issue G3 - If there is an audit trail or toe, assignment cannot be deleted. (We're not counting trashed audits and toes) (Bolor)
+- Bug fix - Cursor will become pointer when it hovers over dropdown action button (Bolor)
+- Bug fix - Closing building form without changing any value was showing value changed dialog. Fixed it (Bolor)
+- Bug fix - Assignment table navigation issue (after reaching page 2 and going into an assingment then come back, table couldn't go to page 1). Fixed it (Bolor) (Fix this issues in other tables)
 <a name="1.1.24"></a>
-# [1.1.24](https://demo.interval-soft.com/) (2020-12-04) (Release Candidate)
+# [1.1.24](https://demo.interval-soft.com/) (2020-12-04)
 - Removed unknowns in inspection form (Bolor)
 - Comparables edit title uses reference number (Bolor)
 - Fixed style of condition rating edit dialog (Bolor)
