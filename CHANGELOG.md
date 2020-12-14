@@ -1,5 +1,5 @@
 <a name="1.1.25"></a>
-# [1.1.25](https://demo.interval-soft.com/) (2020-12-14) (Release Candidate)
+# [1.1.25](https://demo.interval-soft.com/) (2020-12-14) 
 - Issue G1 - Trash and Admin Trash button fixed (Comparables) (Bolor)
 - Issue G2 - Checked other trash button issue. None was found. (Bolor)
 - Issue G3 - If there is an audit trail or toe, assignment cannot be deleted. (We're not counting trashed audits and toes) (Bolor)
@@ -7,6 +7,8 @@
 - Bug fix - Closing building form without changing any value was showing value changed dialog. Fixed it (Bolor)
 - Bug fix - Assignment table navigation issue (after reaching page 2 and going into an assingment then come back, table couldn't go to page 1). Fixed it (Bolor) (Fix this issues in other tables)
 - Issue fix - Building information inspection form - removed unknown from building grade, set completion year, total building floors, building description mandatory (Bolor) (Other fields' unknowns are already removed) 
+
+- Bug fix -  row posisions modal
 
 <a name="1.1.24"></a>
 # [1.1.24](https://demo.interval-soft.com/) (2020-12-04)
