@@ -8,7 +8,7 @@
 - Bug fix - Assignment table navigation issue (after reaching page 2 and going into an assingment then come back, table couldn't go to page 1). Fixed it (Bolor) (Fix this issues in other tables)
 - Issue fix - Building information inspection form - removed unknown from building grade, set completion year, total building floors, building description mandatory (Bolor) (Other fields' unknowns are already removed) 
 
-- Bug fix -  row posisions modal
+- Bug fix -  row posisions modal [A3-A8] (Daima)
 
 <a name="1.1.24"></a>
 # [1.1.24](https://demo.interval-soft.com/) (2020-12-04)
