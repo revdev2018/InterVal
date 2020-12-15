@@ -1,5 +1,12 @@
 <a name="1.1.25"></a>
 # [1.1.25](https://demo.interval-soft.com/) (2020-12-14) 
+- Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
+- Issue A2 - Sizes	Size should be a point of comparaison (if same standard) (Daima)
+- implemented the long modal which is for showing selected comparable info  
+
+
+<a name="1.1.25"></a>
+# [1.1.25](https://demo.interval-soft.com/) (2020-12-14) 
 - Issue G1 - Trash and Admin Trash button fixed (Comparables) (Bolor)
 - Issue G2 - Checked other trash button issue. None was found. (Bolor)
 - Issue G3 - If there is an audit trail or toe, assignment cannot be deleted. (We're not counting trashed audits and toes) (Bolor)
