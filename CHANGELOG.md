@@ -3,6 +3,7 @@
 - Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
 - Issue A2 - Sizes	Size should be a point of comparaison (if same standard) (Daima)
 - implemented the long modal which is for showing selected comparable info  
+- Fixed building info dialog on map (Bolor)
 
 
 <a name="1.1.25"></a>
