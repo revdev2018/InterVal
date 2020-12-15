@@ -1,5 +1,5 @@
-<a name="1.1.25"></a>
-# [1.1.25](https://demo.interval-soft.com/) (2020-12-14) 
+<a name="1.1.26"></a>
+# [1.1.26](https://demo.interval-soft.com/) (2020-12-15) [Release Cantidate]
 - Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
 - Issue A2 - Sizes	Size should be a point of comparaison (if same standard) (Daima)
 - implemented the long modal which is for showing selected comparable info  
