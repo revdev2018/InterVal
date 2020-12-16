@@ -1,5 +1,11 @@
+<a name="1.1.27"></a>
+# [1.1.27](https://demo.interval-soft.com/) (2020-12-16) (Release Candidate)
+- Bug - comparables and inspection form map centering bug. fixed it (Bolor)
+- Bug - inspection form map not reacting properly to mouse click bug. fixed it (Bolor)
+- Bug - comparables and inspection form discard function bug. fixed it (Bolor)
+
 <a name="1.1.26"></a>
-# [1.1.26](https://demo.interval-soft.com/) (2020-12-15) [Release Cantidate]
+# [1.1.26](https://demo.interval-soft.com/) (2020-12-15)
 - Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
 - Issue A2 - Sizes	Size should be a point of comparaison (if same standard) (Daima)
 - implemented the long modal which is for showing selected comparable info  
