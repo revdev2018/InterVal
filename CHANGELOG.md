@@ -1,10 +1,12 @@
 <a name="1.1.27"></a>
-# [1.1.27](https://demo.interval-soft.com/) (2020-12-16) (Release Candidate)
+# [1.1.27](https://demo.interval-soft.com/) (2020-12-16) 
 - Bug - comparables and inspection form map centering bug. fixed it (Bolor)
 - Bug - inspection form map not reacting properly to mouse click bug. fixed it (Bolor)
 - Bug - comparables and inspection form discard function bug. fixed it (Bolor)
-- fixed all bug of marker info modal [E1, E4, D16, D8, C2, C4, C5](Daima)
-- long modal changed Building info, Location, Characteristics and INFORMATION ABOUT COMPARABLE changed
+- fixed all bug of marker info modal [E1, E4, D16, D8, C2, C4, C5] (Daima)
+- Bug - remove button bug on marker modal when selected 5 comparable. fixed it (Daima)
+- [WIP] long modal size and considetaion table, row count issues (Daima)
+- long modal changed on Building info, Location, Characteristics and INFORMATION ABOUT COMPARABLE table (Daima)
 <a name="1.1.26"></a>
 # [1.1.26](https://demo.interval-soft.com/) (2020-12-15)
 - Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
