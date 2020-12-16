@@ -3,7 +3,8 @@
 - Bug - comparables and inspection form map centering bug. fixed it (Bolor)
 - Bug - inspection form map not reacting properly to mouse click bug. fixed it (Bolor)
 - Bug - comparables and inspection form discard function bug. fixed it (Bolor)
-
+- fixed all bug of marker info modal [E1, E4, D16, D8, C2, C4, C5](Daima)
+- long modal changed Building info, Location, Characteristics and INFORMATION ABOUT COMPARABLE changed
 <a name="1.1.26"></a>
 # [1.1.26](https://demo.interval-soft.com/) (2020-12-15)
 - Issue A1 - TPlease convert comparable and inspection size unit to the size unit defined in ToE. (Daima)
