@@ -1,3 +1,8 @@
+<a name="1.1.28"></a>
+# [1.1.28](https://demo.interval-soft.com/) (2020-12-17)
+- Bug - Handover description not diplaying properly bug. fixed it (Bolor)
+- Bug - building information copying map issue. fixed it (Bolor)
+
 <a name="1.1.27"></a>
 # [1.1.27](https://demo.interval-soft.com/) (2020-12-16) 
 - Bug - comparables and inspection form map centering bug. fixed it (Bolor)
