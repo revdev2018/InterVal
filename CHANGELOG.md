@@ -1,4 +1,20 @@
 <a name="1.1.28"></a>
+# [1.1.29](https://demo.interval-soft.com/) (2020-12-21)
+- added Information about inspection part on both modal [A9] (Daima)
+- added size and consideration table on Overview (Daima)
+- removed Consideration table and added the value on info of comporable part(Daima)
+- bug fixed - comparasion count not match (Daima)
+- bug fixed -  size N/A red color (Daima)
+- bug fixed -  wrong location of blue pin on landmark and comparable tab [B1] (Daima)
+- added comparasion count on size table on both modal (Daima)
+- added comparasions count on Overview modal (Daima)
+- bug fixed -  external wall red color (Daima)
+- bug fixed -  condition rating red color (Daima)
+- bug fixed -  office layout red color (Daima)
+- bug fixed -  source date not showing when Unknown (Daima)
+- bug fixed -  source date not showing when Unknown (Daima)
+
+<a name="1.1.28"></a>
 # [1.1.28](https://demo.interval-soft.com/) (2020-12-17)
 - Bug - Handover description not diplaying properly bug. fixed it (Bolor)
 - Bug - building information copying map issue. fixed it (Bolor)
