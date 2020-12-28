@@ -1,4 +1,10 @@
-<a name="1.1.28"></a>
+<a name="1.1.30"></a>
+# [1.1.30](https://demo.interval-soft.com/) (2020-12-25)
+
+- fixed bug - button color of valiation filter (Daima)
+- fixed issues (Daima)
+- added new 2 filter on Filter modal [apartment list, office list, valuation comparable tab]
+<a name="1.1.29"></a>
 # [1.1.29](https://demo.interval-soft.com/) (2020-12-21)
 - added Information about inspection part on both modal [A9] (Daima)
 - added size and consideration table on Overview (Daima)
