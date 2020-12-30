@@ -2,7 +2,8 @@
 # [1.1.30](https://demo.interval-soft.com/) (2020-12-25)
 
 - fixed bug - button color of valiation filter (Daima)
-- fixed issues (Daima)
+- fixed bug - added 2 column on location table of marker info modal (Daima)
+- fixed other small issues- remove room when comparable type is office etc ..(Daima)
 - added new 2 filter on Filter modal [apartment list, office list, valuation comparable tab]
 <a name="1.1.29"></a>
 # [1.1.29](https://demo.interval-soft.com/) (2020-12-21)
