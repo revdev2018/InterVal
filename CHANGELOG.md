@@ -1,3 +1,9 @@
+<a name="1.1.32"></a>
+# [1.1.32](https://demo.interval-soft.com/) (2021-01-11)
+### Feature
+- Adjustment Tab (Draft version) implemented
+  - Criterion, Valuation table (Bolor)
+  - Adjustment table (Daima)
 <a name="1.1.30"></a>
 # [1.1.30](https://demo.interval-soft.com/) (2020-12-25)
 
