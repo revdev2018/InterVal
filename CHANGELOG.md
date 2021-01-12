@@ -1,3 +1,9 @@
+<a name="1.1.33"></a>
+# [1.1.33](https://demo.interval-soft.com/) (2021-01-12)
+### Issue
+- Fixed issue of Size Modal (Bolor)
+- Fixed all other style issue (Bolor)
+- Fixed Valuation table comparable issue (Bolor) 
 <a name="1.1.32"></a>
 # [1.1.32](https://demo.interval-soft.com/) (2021-01-11)
 ### Feature
