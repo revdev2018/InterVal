@@ -5,6 +5,12 @@
 - developed save data funtionality (save as draft) (Daima)
 - fixed bugs which came form last changes on Adjustment tab (Daima)
 - fixed small bugs of adjustment tab (Bolor)
+- fixed issues of "Criterions - Add/Edit Sizes" of adjustment issue list (Bolor)
+- fixed spelling error issues of adjustment issue list (Bolor)
+- fixed unit of measurement issue (Bolor)
+- fixed title of custom criterion adding modal (Bolor)
+- fixed criterion categories issue (Bolor)
+- made cells of adjustment table to editable (Bolor)
 
 <a name="1.1.33"></a>
 # [1.1.33](https://demo.interval-soft.com/) (2021-01-12)
