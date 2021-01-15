@@ -1,5 +1,5 @@
 <a name="1.1.34"></a>
-# [1.1.34](https://demo.interval-soft.com/) (2021-01-12)
+# [1.1.34](https://demo.interval-soft.com/) (2021-01-15)
 ### Issue
 - Fixed issue of Valuation header (Daima)
 - developed save data funtionality (save as draft) (Daima)
