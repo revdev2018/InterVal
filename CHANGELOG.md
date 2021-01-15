@@ -1,3 +1,11 @@
+<a name="1.1.34"></a>
+# [1.1.34](https://demo.interval-soft.com/) (2021-01-12)
+### Issue
+- Fixed issue of Valuation header (Daima)
+- developed save data funtionality (save as draft) (Daima)
+- fixed bugs which came form last changes on Adjustment tab (Daima)
+- fixed small bugs of adjustment tab (Bolor)
+
 <a name="1.1.33"></a>
 # [1.1.33](https://demo.interval-soft.com/) (2021-01-12)
 ### Issue
