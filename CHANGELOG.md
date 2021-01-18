@@ -1,3 +1,15 @@
+<a name="1.1.35"></a>
+# [1.1.35](https://demo.interval-soft.com/) (2021-01-18)
+### Issue
+- ToE Changes list - Local VPGA 10 - Issue fixed (Bolor)
+- ToE Changes list - National VPGA 10 - Issue fixed (Bolor)
+- ToE Changes list - Toe document - Country status of public domain information - Issue fixed (Bolor)
+- ToE Changes list - Toe document - National VPGA 10 - Issue fixed (Bolor)
+- ToE Changes list - Toe document - Local VPGA 10 - Issue fixed (Bolor)
+- Criterion modal - changed grey + button to delete button with functionality (Bolor)
+- Adjustments issue list - added mock data to consideration criterion and valuation table (Bolor)
+
+
 <a name="1.1.34"></a>
 # [1.1.34](https://demo.interval-soft.com/) (2021-01-15)
 ### Issue
