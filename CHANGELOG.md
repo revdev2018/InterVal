@@ -7,7 +7,7 @@
 - ToE Changes list - Toe document - National VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - Toe document - Local VPGA 10 - Issue fixed (Bolor)
 - Criterion modal - changed grey + button to delete button with functionality (Bolor)
-- Adjustments issue list - added mock data to consideration criterion
+- Adjustments issue list - added mock data to consideration criterion (Bolor)
 - Implemented valuation table computation (Bolor)
 - Now can save data of Adjustment tab (Bolor)
 
