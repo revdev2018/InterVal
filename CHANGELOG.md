@@ -1,5 +1,5 @@
 <a name="1.1.35"></a>
-# [1.1.35](https://demo.interval-soft.com/) (2021-01-18) (Release Candidate)
+# [1.1.35](https://demo.interval-soft.com/) (2021-01-20) (Release Candidate)
 ### Issue
 - ToE Changes list - Local VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - National VPGA 10 - Issue fixed (Bolor)
@@ -7,7 +7,9 @@
 - ToE Changes list - Toe document - National VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - Toe document - Local VPGA 10 - Issue fixed (Bolor)
 - Criterion modal - changed grey + button to delete button with functionality (Bolor)
-- Adjustments issue list - added mock data to consideration criterion and valuation table (Bolor)
+- Adjustments issue list - added mock data to consideration criterion
+- Implemented valuation table computation (Bolor)
+- Now can save data of Adjustment tab (Bolor)
 
 
 <a name="1.1.34"></a>
