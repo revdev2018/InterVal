@@ -1,5 +1,5 @@
 <a name="1.1.35"></a>
-# [1.1.35](https://demo.interval-soft.com/) (2021-01-20) (Release Candidate)
+# [1.1.35](https://demo.interval-soft.com/) (2021-01-20)
 ### Issue
 - ToE Changes list - Local VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - National VPGA 10 - Issue fixed (Bolor)
