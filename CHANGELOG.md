@@ -1,6 +1,15 @@
 <a name="1.1.35"></a>
 # [1.1.35](https://demo.interval-soft.com/) (2021-01-20)
 ### Issue
+- ToE Changes list - add custom input on TP default assumption  (Daima)
+- ToE Changes list - add custom input on TP special assumption  (Daima)
+- ToE Changes list - add custom input on TP departure assumption  (Daima)
+- There is a rule of check None Value on the parts (Daima)
+- Changed width and input type of Add item dialog [assumption, special assumption and departure ] (Daima)
+
+<a name="1.1.35"></a>
+# [1.1.35](https://demo.interval-soft.com/) (2021-01-20)
+### Issue
 - ToE Changes list - Local VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - National VPGA 10 - Issue fixed (Bolor)
 - ToE Changes list - Toe document - Country status of public domain information - Issue fixed (Bolor)
