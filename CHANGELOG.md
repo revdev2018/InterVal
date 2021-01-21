@@ -1,5 +1,5 @@
-<a name="1.1.35"></a>
-# [1.1.35](https://demo.interval-soft.com/) (2021-01-20)
+<a name="1.1.36"></a>
+# [1.1.36](https://demo.interval-soft.com/) (2021-01-21)
 ### Issue
 - ToE Changes list - add custom input on TP default assumption  (Daima)
 - ToE Changes list - add custom input on TP special assumption  (Daima)
