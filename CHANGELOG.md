@@ -3,6 +3,7 @@
 ### Issue
 - Changed VPGA text of National VPGA 10 (Boloroo)
 - Weighted avg gross unit rate and Target property value will be green when total weight is 100% (Boloroo)
+- Criterion table - Restore icon only shows when data changes (Boloroo)
 ## Feature
 - Assumptions, special assumptions and departures table is done (Boloroo)
 <a name="1.1.36"></a>
