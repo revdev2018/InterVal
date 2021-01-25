@@ -1,3 +1,10 @@
+<a name="1.1.37"></a>
+# [1.1.37](https:/demo.interval-soft.com/) (2021-01-25)
+### Issue
+- Changed VPGA text of National VPGA 10 (Boloroo)
+- Weighted avg gross unit rate and Target property value will be green when total weight is 100% (Boloroo)
+## Feature
+- Assumptions, special assumptions and departures table is done (Boloroo)
 <a name="1.1.36"></a>
 # [1.1.36](https://demo.interval-soft.com/) (2021-01-21)
 ### Issue
