@@ -1,3 +1,14 @@
+
+<a name="1.1.37"></a>
+# [1.1.38](https:/demo.interval-soft.com/) (2021-01-28)
+### Issue
+- fixed Bug - changed to Title Font and color, fixed Add document button bug on Agency form (Daima)
+- fixed Bug - fixed Save button bug on Client form (Daima)
+- finished Departure changes on Tp dialog of ToE form (Daima)
+-  (Boloroo)
+## Feature
+- Assumptions, special assumptions and departures table is done (Boloroo)
+
 <a name="1.1.37"></a>
 # [1.1.37](https:/demo.interval-soft.com/) (2021-01-25)
 ### Issue
