@@ -1,5 +1,9 @@
 
-<a name="1.1.37"></a>
+<a name="1.1.39"></a>
+# [1.1.39](https:/demo.interval-soft.com/) (2021-01-29)
+### Issue 
+- Removed Country VPGA10 from VPGA10 table (Boloroo)
+<a name="1.1.38"></a>
 # [1.1.38](https:/demo.interval-soft.com/) (2021-01-28)
 ### Issue
 - fixed Bug - changed to Title Font and color, fixed Add document button bug on Agency form (Daima)
