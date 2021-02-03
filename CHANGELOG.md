@@ -3,6 +3,7 @@
 ### Feature
 - Sourcing / Required external references in toe table (Boloroo)
 - Added reminder on top of Criterion table (Boloroo)
+- Can save data of Preliminaries tab (Boloroo)
 <a name="1.1.39"></a>
 # [1.1.39](https:/demo.interval-soft.com/) (2021-01-29)
 ### Issue 
