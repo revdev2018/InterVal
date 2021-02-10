@@ -1,7 +1,8 @@
 <a name="1.1.41"></a>
 # [1.1.41](https:/demo.interval-soft.com/) (2021-02-10)
 ### Feature
-- 'Background' Tab is implemented
+- 'Background' Tab is implemented (Boloroo)
+- Additional Doc is implemented on ToE Dashboard (Daima)
 <a name="1.1.40"></a>
 # [1.1.40](https:/demo.interval-soft.com/) (2021-02-03)
 ### Feature
