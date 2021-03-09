@@ -1,3 +1,7 @@
+<a name="1.1.42"></a>
+# [1.1.42](https://demo.interval-soft.com/) (2021-03-09)
+### Feature
+- Consideration Calculation process
 <a name="1.1.41"></a>
 # [1.1.41](https:/demo.interval-soft.com/) (2021-02-10)
 ### Feature
